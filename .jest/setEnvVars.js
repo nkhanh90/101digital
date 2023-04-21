@@ -1,0 +1,8 @@
+// ALGOLIA
+process.env.API_BASE_URL = 'API_BASE_URL';
+process.env.APP_NAMESPACE = 'APP_NAMESPACE';
+process.env.APP_BASENAME = 'APP_BASENAME';
+process.env.API_CLIENT_ID = 'API_CLIENT_ID';
+process.env.API_CLIENT_SECRET = 'API_CLIENT_SECRET';
+process.env.API_GRANT_TYPE = 'API_GRANT_TYPE';
+process.env.API_SCOPE = 'API_SCOPE';
